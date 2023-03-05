@@ -1,6 +1,6 @@
 import os
 
-qw =open("qwe.txt", "r")
+qw =open("qwe3.txt", "r")
 we =open("qqqqq.txt", "w")
 for i in qw:
     we.write(str(i))
