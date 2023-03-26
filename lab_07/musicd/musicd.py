@@ -10,8 +10,8 @@ FPS = 50
 done = False
 n = 0
 musics = ['sao1.mp3','5.mp3','klinok.mp3','sao2.mp3']
-plays = ['download.jpg','5.jpeg','клинок.jpeg','5731767.jpg']
-pause = 'стоп.jpeg'
+plays = ['download.png','5.png','клинок.png','5731767.png']
+pause = 'стоп.png'
 
 
 def start(n):
