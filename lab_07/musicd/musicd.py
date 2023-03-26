@@ -3,7 +3,7 @@ from pygame import mixer
 
 pygame.init()
 mixer.init()
-pygame.display.set_caption("Askar's player :)")
+pygame.display.set_caption("player")
 screen = pygame.display.set_mode((600, 600))
 clock = pygame.time.Clock()
 FPS = 50
